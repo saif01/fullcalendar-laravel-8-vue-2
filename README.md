@@ -1,5 +1,5 @@
-# Building a Trello Clone using Laravel and Vue
-This is a demo application showing how to fullcalendar npm package use by vue js - v2 with backend laravel- v 8
+# Building a Fullcalendar Event Clone using Laravel and Vue
+This is a demo application showing how to fullcalendar npm package use by vue js - v2 with backend laravel- v8
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -45,7 +45,7 @@ $ php artisan key:generate
 ```
 $ php artisan migrate
 ```
-    
+
 
 - Install node modules
 ```
@@ -60,7 +60,13 @@ $ php artisan serve
 ## Built With
 * [Laravel](https://laravel.com) - The PHP framework for building the API endpoints needed for the application
 * [Vue](https://vuejs.org) - The Progressive JavaScript Framework for building interactive interfaces
+* [fullcalendar](https://fullcalendar.io/docs#main) - The Most Popular JavaScript Calendar - Concise documentation 
+
+
 
 ## Acknowledgments
 * [Laravel](https://laravel.com) - The excellent documentation explaining how to get started with Laravel and Laravel Passport made it easy to provide a step by step guide for beginners to follow the application
 * [Vue](https://vuejs.org) - Concise documentation 
+* [fullcalendar](https://fullcalendar.io/) - The Most Popular JavaScript Calendar - Concise documentation 
+
+
